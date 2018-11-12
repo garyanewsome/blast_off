@@ -40,7 +40,6 @@
 .dark-mode {
   background-color: hsl(0, 0%, 0%);
   animation: glowing 300ms infinite;
-  /*box-shadow: 0 0 8px hsl(0, 3%, 19%);*/
 }
 
 .alt-dark-mode {
